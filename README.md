@@ -14,7 +14,6 @@ Experience the application live at: [askgenai.netlify.app](https://askgenai.netl
 - **Customizable Interface** : Easily adaptable UI to fit different themes and preferences.
 
 
-```plaintext
 ## 📦 Getting Started
 
 ### Prerequisite
@@ -57,4 +56,3 @@ Experience the application live at: [askgenai.netlify.app](https://askgenai.netl
 
 This project is licensed under the [MIT License](LICENSE).
 
----
